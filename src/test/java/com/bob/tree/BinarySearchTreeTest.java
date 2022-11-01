@@ -7,6 +7,7 @@ import java.util.List;
  * @Date 2022/11/1 20:35
  * @Description:  二叉搜索树 链表实现
  * @Version 1.0
+ * @link https://www.processon.com/view/link/63611bfd63768973171ea7ab
  */
 public class BinarySearchTreeTest {
 	public static void main(String[] args) {
